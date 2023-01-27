@@ -1,0 +1,35 @@
+.buttons{
+    height: 60px;
+    width: 100px;
+    border: 3px solid;
+    border-color: black;
+    border-radius: 12px;
+    background-color: rgba(128, 128, 128, 0.353);
+    color: #fff;
+    cursor: pointer;
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#display{
+    font-size: 75px;
+    color: aliceblue;
+    margin-left: 72px;
+
+}
+
+#container{
+    background-color:grey;
+    border-radius: 12px;
+    width: 400px;
+    box-shadow: 10px 5px 4px lightgrey;
+    margin-top: 300px;
+}
